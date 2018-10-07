@@ -5,7 +5,7 @@ ROUGE是Summarization领域最常用的评价指标，本文档讲解在Win10下
 ## 安装
 ### 需要下载的工具：
 
-* [ROUGE-1.5.5](https://pan.baidu.com/s/1B7-LYn1lZKC8f51yXxNK9w)
+* [ROUGE-1.5.5](https://pan.baidu.com/s/1y4gXOkBq4Pq5knZlP18QsQ) 提取码：izf3
 * [Strawberry Perl](http://strawberryperl.com/)
 
 ### 安装步骤：
